@@ -1,0 +1,28 @@
+http://10.24.226.212:60141/Geo?lat1=43.653225&lng1=-79.383186&lat2=45.501690&lng2=-73.567253
+http://10.24.226.212:60231/Auth?usr=Mike@Miranda.ca&pw=magic2Go
+http://10.24.226.212:60141/Quote?pid=S10_1678&format=xml
+http://10.24.226.212:60141/Loc?add=yorkuniversity
+http://10.24.226.212:60152/Stateful?lat1=43.653225&lng1=-79.383186&c=-1
+http://10.24.226.212:60141/Stateful?lat1=43.653225&lng1=-79.383186&c=0
+
+
+http://10.24.226.212:59869/Auth?usr=Mike@Miranda.ca&pw=magic2Go
+
+http://localhost:4413/projB/Service?lat=43.653225&lon=-79.383186
+http://localhost:4413/projB/Service?lat=45.501690&lon=-73.567253
+
+
+http://localhost:4413/projB/FAuth?usr=Mike@Miranda.ca&pw=magic2Go
+
+
+
+43.653225 -79.383186 45.501690 -73.567253
+
+Mike@Miranda.ca magic2Go
+
+S10_1678 xml
+
+yorkuniversity
+
+43.653225 -79.383186 -1
+43.653225 -79.383186 0

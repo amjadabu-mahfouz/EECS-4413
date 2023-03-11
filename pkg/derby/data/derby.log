@@ -1,0 +1,25 @@
+Wed Aug 21 12:06:49 EDT 2019 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 64413
+----------------------------------------------------------------
+Wed Aug 21 12:06:54 EDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016c-b4ee-4210-00003e05579d 
+on database directory /eecs/fac/pkg/hr4413/pkg/derby/data/EECS with class loader sun.misc.Launcher$AppClassLoader@61bbe9ba 
+Loaded from file:/eecs/fac/pkg/hr4413/pkg/derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=/eecs/fac/pkg/hr4413/pkg/derby/bin
+os.name=Linux
+os.arch=amd64
+os.version=3.10.0-957.21.3.el7.x86_64
+derby.system.home=/cs/fac/pkg/hr4413/pkg/derby/data
+------------  Begin Error Message -------------
+
+System may be in a inconsistent state, missing file /eecs/fac/pkg/hr4413/pkg/derby/data/EECS/log/log1.dat
+------------  End Error Message -------------
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Aug 21 12:07:09 EDT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Aug 21 12:07:09 EDT 2019:
+Shutting down instance a816c00e-016c-b4ee-4210-00003e05579d on database directory /eecs/fac/pkg/hr4413/pkg/derby/data/EECS with class loader sun.misc.Launcher$AppClassLoader@61bbe9ba 
+----------------------------------------------------------------
